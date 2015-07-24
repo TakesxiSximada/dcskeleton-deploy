@@ -1,0 +1,3 @@
+[submodule "vendor/dcskeleton"]
+	path = vendor/dcskeleton
+	url = git@github.com:TakesxiSximada/dcskeleton.git
