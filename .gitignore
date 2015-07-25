@@ -1,5 +1,7 @@
-env/
-var/
+env
+var
+downloads
+tmp
 
 
 # Byte-compiled / optimized / DLL files
